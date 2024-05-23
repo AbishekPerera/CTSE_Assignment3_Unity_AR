@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="skull" size="1.000000 0.605000" />
+    <ImageTarget name="trexbw" size="1.000000 1.000000" />
+    <ImageTarget name="raptorbw" size="1.000000 0.733077" />
+    <ImageTarget name="twoveloci" size="1.000000 0.709375" />
+    <ImageTarget name="trex" size="1.000000 0.600000" />
+    <ImageTarget name="trex_f" size="1.000000 0.555556" />
+    <ImageTarget name="stegosaurus" size="1.000000 0.600833" />
+    <ImageTarget name="raptor_skel" size="1.000000 1.000000" />
+    <ImageTarget name="raptor1" size="1.000000 1.000000" />
+    <ImageTarget name="dtrgosauruss_fodil" size="1.000000 0.479167" />
+    <ImageTarget name="allinone" size="1.000000 0.638333" />
+  </Tracking>
+</QCARConfig>
